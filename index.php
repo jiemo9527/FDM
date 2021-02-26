@@ -217,7 +217,7 @@
   
 <script src="http://libs.baidu.com/jquery/2.0.0/jquery.js"></script>
 </head>
-</head>
+
 <body>
 <div style="width:60%;margin-right: auto;margin-left: auto;">
  <br><br> <br><br>
